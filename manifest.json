@@ -6,7 +6,7 @@
     "description": "Plays Wii Shop Channel music on all Amazon storefronts.",
   
     "icons": {
-      "48": "icons/border-48.png"
+      "96": "icons/wii.png"
     },
   
     "content_scripts": [
